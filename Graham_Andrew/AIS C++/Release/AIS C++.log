@@ -1,0 +1,24 @@
+﻿Сборка начата 10.12.2015 13:07:15.
+     1>Проект "C:\Users\Андрей\Documents\Visual Studio 2012\Projects\AIS C++\AIS C++\AIS C++.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>Main.cpp(64): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>Main.cpp(132): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Main.cpp(141): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Main.cpp(149): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Main.cpp(162): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Main.cpp(247): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Main.cpp(320): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Main.cpp(375): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Main.cpp(33): warning C4101: timeprog3: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Андрей\Documents\Visual Studio 2012\Projects\AIS C++\Release\AIS C++.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Андрей\Documents\Visual Studio 2012\Projects\AIS C++\Release\AIS C++.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Андрей\Documents\Visual Studio 2012\Projects\AIS C++\Release\AIS C++.lib" /MACHINE:X86 /SAFESEH Release\Main.obj
+         Создание кода
+         Создание кода завершено
+         AIS C++.vcxproj -> C:\Users\Андрей\Documents\Visual Studio 2012\Projects\AIS C++\Release\AIS C++.exe
+     1>Построение проекта "C:\Users\Андрей\Documents\Visual Studio 2012\Projects\AIS C++\AIS C++\AIS C++.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.50
